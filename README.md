@@ -192,6 +192,6 @@ Terima kasih kepada:
 
 **Made with ❤️ by [Kelompok 14/Sistem Informasi]**
 
-*© 2024 TriPix. All Rights Reserved.*
+*© 2025 TriPix. All Rights Reserved.*
 
 </div>
